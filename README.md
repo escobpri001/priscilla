@@ -12,9 +12,20 @@
    <li>American Heart Association Basic Life Support</li>
 
 <h2>Programs</h2>
-
+   <li> Houston PREP: University of Houston Downtown</li>
+   <li> Texas Diversity Council Summer Youth Program: Rice University</li>
+   <li> ACE Mentoring Program</li>
+   <li> Collegiate Challenge: Westchester Academy for International Studies</li>
 
 <h2>Extracurricular</h2>
+   <li>National Art Honor Society, <i>President</i></li>
+   <li>Wildcat Volleyball Club, <i>Captain & Founder</i></li>
+   <li>Hispanic Honor Society, <i>Historian</i></li>
+   <li>National Honor Society, <i>Member</i></li>
+   <li>Mu Alpha Theta, <i>Member</i></li>
+
+
+
 
 
 <h2>Volunteer</h2>
