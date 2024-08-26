@@ -23,13 +23,19 @@
    <li>Hispanic Honor Society, <i>Historian</i></li>
    <li>National Honor Society, <i>Member</i></li>
    <li>Mu Alpha Theta, <i>Member</i></li>
-
-
-
-
+   <li>Theater Co., <i>Props</i></li>
 
 <h2>Volunteer</h2>
-
+   <li>Spring Branch ISD Super Saturday Event Coordinator</li>
+   <li>IB Art Expo & Gallery Show</li>
+   <li>STEM Festival Wilchester Elementary</li>
+   <li>Chess Tournament</li>
+   <li>SBISD Color Run</li>
+   <li>Garden Community Service</li>
+   <li>Nottingham Elementary Fall Carnival</li>
+   <li>WAIS Ambassador IB EXPO</li>
+   <li>Build it Forward</li>
+   <li>Clinical Rotations</li>
 
 <h2>Achievments</h2>
 
