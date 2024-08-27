@@ -38,14 +38,10 @@
    <li>Clinical Rotations</li>
 
 <h2>Achievments</h2>
-
-- 
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<li> ACE Mentors Program Houston: 1st place student design competition</li>
+<li>Gingerbread Build-off : 1st place best high school division place</li>
+<li>IB Learner Award </li>
+<li>Nominee for Character without question</li>
+<li>Distinguished Honor Roll: Term 2 of 9th Grade & Term 1 of 11th Grade</li>
 
 
-
-[linkedin]: https://linkedin.com/in/joshmadakor
